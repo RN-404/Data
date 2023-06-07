@@ -1,7 +1,7 @@
 {
   "updateInfo": {
     "tool_version": "1.0.10",
-    "changelog": "_________ Changelog _________\n  1.Fixed some major bugs\n  2.Fixed Counting Problem in ok and cp account in \n  Method 2"
+    "changelog": "_________ Changelog _________\n  1.Fixed some major bugs\n  2.Fixed Counting Problem in "
 },
  "server": {
     "status": "RUNNING"
