@@ -8,5 +8,4 @@ TCSM-A505F10422u0_a422
 
 
 -------Trail--------
-TCInfinixX681610239u0_a239
 TCRMX328610848u0_a848
