@@ -1,3 +1,36 @@
+Tecno Pova|Tecno|{density=2.75,width=720,height=1640}
+Tecno Camon 20 Premier|Tecno|{density=3.0,width=1080,height=2400}
+Tecno Camon 20 Pro 5G|Tecno|{density=3.0,width=1080,height=2400}
+Tecno Camon 20 Pro|Tecno|{density=3.0,width=1080,height=2400}
+Tecno Camon 20|Tecno|{density=3.0,width=1080,height=2400}
+Tecno Pop 7|Tecno|{density=2.75,width=720,height=1612}
+Tecno Spark 10|Tecno|{density=2.75,width=720,height=1612}
+Tecno Spark Go 2023|Tecno|{density=3.0,width=720,height=1600}
+Tecno Pova 4|Tecno|{density=3.0,width=720,height=1600}
+Tecno Pova 4 Pro|Tecno|{density=3.0,width=1080,height=2460}
+Tecno Pova Neo 2|Tecno|{density=3.0,width=720,height=1640}
+Tecno Pova Neo 5G|Tecno|{density=3.0,width=1080,height=2460}
+Tecno Pop 6 Pro|Tecno|{density=3.0,width=720,height=1612}
+Xiaomi Redmi 12|Xiaomi|{density=3.0,width=1080,height=2460}
+Xiaomi Redmi Note 12T Pro|Xiaomi|{density=3.0,width=1080,height=2460}
+Xiaomi Poco F5 Pro|Xiaomi|{density=3.0,width=1440,height=3200}
+Xiaomi Poco F5|Xiaomi|{density=3.0,width=1080,height=2400}
+Xiaomi Poco C51|Xiaomi|{density=3.0,width=720,height=1600}
+Xiaomi Redmi Note 12S|Xiaomi|{density=3.0,width=1080,height=2400}
+Xiaomi Redmi Note 12 Pro 4G|Xiaomi|{density=3.0,width=1080,height=2400}
+Xiaomi Redmi Note 12 Turbo|Xiaomi|{density=3.0,width=1080,height=2400}
+Xiaomi Redmi A2+|Xiaomi|{density=3.0,width=720,height=1600}
+Xiaomi Redmi Note 12 4G|Xiaomi|{density=3.0,width=1080,height=2400}
+Xiaomi Poco C55|Xiaomi|{density=3.0,width=720,height=1650}
+Xiaomi Poco X5 Pro|Xiaomi|{density=3.0,width=1080,height=2400}
+vivo Y36 5G|Vivo|{density=3.0,width=1080,height=2388}
+vivo Y36|Vivo|{density=3.0,width=1080,height=2388}
+vivo V29 Lite|Vivo|{density=3.0,width=1080,height=2400}
+vivo S17 Pro|Vivo|{density=3.0,width=1260,height=2800}
+vivo S17|Vivo|{density=3.0,width=1260,height=2800}
+vivo iQOO Neo8 Pro|Vivo|{density=3.0,width=1260,height=2800}
+vivo Y78+|Vivo|{density=3.0,width=1080,height=2400}
+vivo iQOO Neo8|Vivo|{density=3.0,width=1260,height=2800}
 V25 Pro|Vivo|{density=3.0,width=1080,height=2376}
 V25|Vivo|{density=3.0,width=1080,height=2404}
 V25e|Vivo|{density=3.0,width=1080,height=2404}
