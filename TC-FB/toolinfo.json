@@ -1,6 +1,6 @@
 {
   "updateInfo": {
-    "tool_version": "2.3.20",
+    "tool_version": "2.3.21",
     "changelog": "_________ Changelog _________\n  1.Updated To The New working Method\n  2.Added Auto Generate Password In File clone \n"
 },
  "server": {
