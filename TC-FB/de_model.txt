@@ -1,1 +1,2 @@
 KFSOWI|Amazon|{density=1.5,width=1280,height=800}
+VOG-L29|HUAWEI|{density=3.0,width=1080,height=2265}
